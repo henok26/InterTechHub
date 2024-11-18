@@ -83,6 +83,10 @@ p{
 .project1>.item2{
 margin-left: -18rem;
 }
+a{
+    text-decoration: none;
+    color: yellow;
+}
 .project1>img{ max-width: 100%; /* Ensure the image fits within its container */
     max-height: 100%;}
 .projectDescription{
